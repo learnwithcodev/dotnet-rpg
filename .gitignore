@@ -70,3 +70,4 @@ bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
 bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
 bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
 obj/dotnet-rpg.csproj.EntityFrameworkCore.targets
+bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
